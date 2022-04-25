@@ -1,7 +1,7 @@
 # Dataset
 This is XiDian ASELab Intelligent Recommendation Group.
 ## Introduction
-该文档用于西安电子科技大学智能软件工程实验室智能化推荐组新生培训。
+该文档用于西安电子科技大学智能软件工程实验室智能化推荐组产出文档与新生培训。
 
 ![img.png](img/img.png)
 
